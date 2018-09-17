@@ -1,0 +1,15 @@
+{
+  "name": "platzigram",
+  "version": "1.0.0",
+  "description": "First site with js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ManuelZs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "materialize-css": "^1.0.0"
+  }
+}
